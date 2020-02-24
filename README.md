@@ -16,7 +16,7 @@ The languages and tools you used to create this app ARE.
 (HTML, Css & Javascript.)
 
 Support and contact details
-Mail me for more information: Kmbaria.george@gmail.com.
+Mail me for more information: moonboyfidu123@gmail.com
 
 Support and contact details make a contribution to the code.
 Email:moonboyfidu123@gmail.com
