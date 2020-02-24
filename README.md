@@ -6,7 +6,8 @@ This is a project that tell your akan name according to the dates months and yea
 this website was build on
 ###{14 feb 2020}
 
-By Abdihafid Abdi
+By Abdihafid Abdi Muhumed
+
 Site
 the Akan site. https://github.com/Abdi0708/Birthday-website.git
 
